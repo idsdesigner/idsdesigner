@@ -1,5 +1,5 @@
 ### Olá, meu nome é Ismael Douglas 👋
-- 🔭 Trabalho com Design Gráfico
+- 🔭 Web Designer
 - 🌱 Estou aprendendo Desenvolvimento Web
 
 <div style="display: inline_block"><br>
