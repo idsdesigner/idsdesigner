@@ -21,4 +21,4 @@
   <a href="https://www.linkedin.com/in/ismael-douglas-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<a href="https://app.rocketseat.com.br/me/isdouglassilva20"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=isdouglassilva20&type=card" width="280" alt="Ismael Douglas 's Rocket ID"/></a>
+<a href="https://app.rocketseat.com.br/me/isdouglassilva20"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=isdouglassilva20&type=card" width="80" alt="Ismael Douglas 's Rocket ID"/></a>
