@@ -1,7 +1,7 @@
 ### Olá, meu nome é Ismael Douglas 👋
 - 🔭 Web Designer
-- 🌱 Estou aprendendo Desenvolvimento Web
-- <a href="https://app.rocketseat.com.br/me/isdouglassilva20"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=isdouglassilva20&type=card" width="80" alt="Ismael Douglas 's Rocket ID"/></a>
+- 🌱 Estou aprendendo Desenvolvimento Web<br><br>
+<a href="https://app.rocketseat.com.br/me/isdouglassilva20"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=isdouglassilva20&type=card" width="180" alt="Ismael Douglas 's Rocket ID"/></a>
 ##
 
 <div style="display: inline_block"><br>
