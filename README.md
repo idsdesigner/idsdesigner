@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Transformo ideias em soluções digitais funcionais – onde design e código se encontram para resolver problemas reais. Com 5 anos de experiência em design gráfico e foco recente em desenvolvimento web, crio interfaces que unem estética, acessibilidade e performance.
+5 anos de experiência em design gráfico e foco recente em desenvolvimento web, crio interfaces que unem estética, acessibilidade e performance.
 
 ```javascript
 const ismael = {
