@@ -6,9 +6,7 @@
 
 <br>
 
-## 👨‍💻 Sobre mim
-
-5 anos de experiência em design gráfico e foco recente em desenvolvimento web, crio interfaces que unem estética, acessibilidade e performance.
+## 👨‍💻
 
 ```javascript
 const ismael = {
@@ -39,10 +37,6 @@ const ismael = {
 
 </div>
 
-<br>
-
-## ✨ "Acredito que a melhor interface é aquela que simplifica a vida do usuário."
-
 
 <br>
 
@@ -57,12 +51,6 @@ const ismael = {
 </div>
 
 <br>
-
-<div align="center">
-  
-![Contador de Visitas](https://profile-counter.glitch.me/seunome/count.svg)
-
-</div>
 
 <div align="right">
   <sub>🔶 Design + Code = Soluções</sub>
